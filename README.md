@@ -18,6 +18,7 @@ Marco
 NOTAS / NOTES:
 Repo para scripts de Solaris que he realizado en Gitronic/Gibitnet para facilitar el trabajo.
 This repo contains some basic scripts for making things easier when administering some Solaris host.
+As always, you will have to modify some things for your environment but pretty straitforward.
 
 Script --- What does it do?
 
