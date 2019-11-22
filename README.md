@@ -11,7 +11,7 @@ Hi there,
 
 Welcome to the repo, this is intended to share some scripts I have developed or modified for Solaris.\
 Some scripts are pretty simple but very helpful.\
-Greetings to everybody, enjoy!.\
+Greetings to everybody, enjoy!.
 
 Marco
 
