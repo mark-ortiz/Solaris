@@ -24,12 +24,20 @@ As always, you will have to modify some things for your environment but pretty s
 Script --- What does it do?
 
 <pre>
+alarma-de-monitoreo.sh  Monitors server temperature using IPMItool, sends mail if threshold is triggered
 aliasutiles.sh          Stablish some useful alias so you don't have to type a lot\
 aliasutiles_users.sh    Same as before but for users\
+detalleluns.sh          Lists the luns present in a Solaris system, very useful for listing "disks" from storage systems\
+detallelunsv2.sh        Lists the luns but with much more detail, sometimes needed for troubleshooting\
 env_vars_oracle.sh      For stablishing some environment variables when installing Oracle Database\
 montar_software.sh      For mounting windows shared folders\
+mantto.sh               Script for performing logical maintenance to a Solaris host, this is the most useful (I think)\
+maquinas.sh             This is used to list if there are VirtualBox machines in the system (running or not)\
+monitoreo.sh            Used for monitoring memopry and zfs disk pools\
 prereq_18c_sparc.sh     For preparing a host to install Oracle DB version 18c\
 set_user_reserve.sh     Script original from Oracle to set memory in Solaris hosts.\
 swapinfo.sh             For knowing what is using swap.\
 verswap.sh              Works together with swapinfo.sh
 </pre>
+
+If you need assistance feel free to contact me: mark_ortiz@live.com
