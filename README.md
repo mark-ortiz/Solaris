@@ -21,7 +21,7 @@ This repo contains some basic scripts for making things easier when administerin
 
 Script --- What does it do?
 
-aliasutiles.sh          Stablish some usefule alias so you don't have to type a lot
+aliasutiles.sh          Stablish some usefule alias so you don't have to type a lot\n
 aliasutiles_users.sh    Same as before but for users
 env_vars_oracle.sh      For stablishing some environment variables when installing Oracle Database
 montar_software.sh      For mounting windows shared folders
