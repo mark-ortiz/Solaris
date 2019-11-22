@@ -21,11 +21,13 @@ This repo contains some basic scripts for making things easier when administerin
 
 Script --- What does it do?
 
+<pre>
 aliasutiles.sh          Stablish some usefule alias so you don't have to type a lot\
 aliasutiles_users.sh    Same as before but for users\
 env_vars_oracle.sh      For stablishing some environment variables when installing Oracle Database\
-montar_software.sh      For mounting windows shared folders
-prereq_18c_sparc.sh     For preparing a host to install Oracle DB version 18c
-set_user_reserve.sh     Script original from Oracle to set memory in Solaris hosts.
-swapinfo.sh             For knowing what is using swap.
+montar_software.sh      For mounting windows shared folders\
+prereq_18c_sparc.sh     For preparing a host to install Oracle DB version 18c\
+set_user_reserve.sh     Script original from Oracle to set memory in Solaris hosts.\
+swapinfo.sh             For knowing what is using swap.\
 verswap.sh              Works together with swapinfo.sh
+</pre>
